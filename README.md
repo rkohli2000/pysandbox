@@ -1,4 +1,7 @@
 # pysandbox
-Sandbox for python play
 
-Python modules for experiments
+dev-features
+
+1. Add new exprimental features for test experiments
+
+
